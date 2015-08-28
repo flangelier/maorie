@@ -1,4 +1,4 @@
-package main.scala.com.ensor_soleil.maorie
+package quebec.lange.maorie
 
 /**
  * Created by flangelier on 2014-06-15.
